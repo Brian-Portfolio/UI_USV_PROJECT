@@ -28,3 +28,5 @@ Final_Draft.py -
 Run command
 
 `python Rough_Draft_UI.py` 
+
+![alt-text](http://g.recordit.co/s3S2XzqdHi.gif)
