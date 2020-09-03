@@ -12,7 +12,9 @@ Final_Draft.py -
 # Getting Started
 
  **Dependencies**
+
 -Familirity with TKinter widgets
+
 -Operating System - Windows or MacOs
 # Installing
 
