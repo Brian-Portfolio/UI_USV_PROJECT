@@ -25,7 +25,7 @@ Final_Draft.py -
 
 # Executing Program
 
-Run command
+Run command(for both Rough and Final Drafts)
 
 `python Rough_Draft_UI.py` 
 
