@@ -11,11 +11,19 @@ Final_Draft.py -
 
 # Getting Started
 
- **Dependencies**
+**Dependencies**
 
 -Familirity with TKinter widgets
 
 -Operating System - Windows or MacOs
-# Installing
+
+-Libraries - 
+
+**Installing**
+
+
 
 # Executing Program
+
+Run command
+``python 
