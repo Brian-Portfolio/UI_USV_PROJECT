@@ -15,7 +15,9 @@ Final_Draft.py - This code correlated to the final development of the USV(Unmann
 
 -Familirity with TKinter widgets
 
--Operating System - Windows or MacOs
+-Operating System - Windows 7,8,9 or MacOs
+
+-Hardware - PC's, Desktops. Laptops, mobile devices, Raspberry-Pi
 
 -Libraries - 
 
