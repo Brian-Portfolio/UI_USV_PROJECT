@@ -6,7 +6,7 @@ User Interface For Unmanned Suface Vehicle
 
 Rough_Draft.py - This code correlated to a drawn out sketch that was developed, and later coded using one of python's UI Frameworks known as TKinter. It was used as an outline to visualize the construction for the UI and how the User could anticpate the data being presented to them. Within this code I had used different widgets, and object oriented programming using Python to frame this User Interface front-end framework. 
 
-Final_Draft.py - This code correlated to the final development of a USV(Unmanned Surface Vehicle) functionality. That proposed of three main functions a BMS(Battery Management System, GPS(Global Positioning System), and IMU (Inertial Measurement Unit).  
+Final_Draft.py - This code correlated to the final development of the USV(Unmanned Surface Vehicle) functionality using one of python's UI Frameworks known as Pysimple-GUI. That proposed of three main functions a BMS(Battery Management System, GPS(Global Positioning System), and IMU (Inertial Measurement Unit). It presents the user with a longitude and latitude grid, along with a display window showing all the output values, and a log console to track the USV's data movements.      
 
 
 # Getting Started
