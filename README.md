@@ -13,15 +13,20 @@ Final_Draft.py - This code correlated to the final development of the USV(Unmann
 
 **Dependencies**
 
--Familirity with TKinter widgets
+-Familirity with TKinter widgets/ Pysimple-GUI widgets
 
--Operating System - Windows 7,8,9 or MacOs
+-Operating System - Windows 7,8,10 or MacOs
 
 -Hardware - PC's, Desktops. Laptops, mobile devices, Raspberry-Pi
 
--Libraries - 
+-Libraries - Tkinter, Pysimple-GUI, matplotlib
 
 **Installing**
+
+-Use `pip` command on terminal to install necessary librarys
+
+-Example of command `pip install "library to install"`
+
 
 
 
@@ -32,3 +37,5 @@ Run command(for both Rough and Final Drafts)
 `python Rough_Draft_UI.py` 
 
 ![alt-text](http://g.recordit.co/s3S2XzqdHi.gif)
+
+`python Final_Draft_UI.py`
