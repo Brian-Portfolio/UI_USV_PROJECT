@@ -19,7 +19,7 @@ Final_Draft.py - This code correlated to the final development of the USV(Unmann
 
 -Hardware - PC's, Desktops. Laptops, mobile devices, Raspberry-Pi
 
--Libraries - Tkinter, Pysimple-GUI, matplotlib
+-Libraries - Tkinter, Pysimple-GUI, matplotlib, Image, 
 
 **Installing**
 
@@ -27,7 +27,9 @@ Final_Draft.py - This code correlated to the final development of the USV(Unmann
 
 -Example of command `pip install "library to install"`
 
+**Help**
 
+-Using Python versions 3.7.3 or later encounter issues with table colors not working at all. For the final draft program, Python version 3.6.4 was used and can be downloaded
 
 
 # Executing Program
