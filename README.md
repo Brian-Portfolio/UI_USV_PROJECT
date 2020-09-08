@@ -39,3 +39,5 @@ Run command(for both Rough and Final Drafts)
 ![alt-text](http://g.recordit.co/s3S2XzqdHi.gif)
 
 `python Final_Draft_UI.py`
+
+![alt-text](http://g.recordit.co/0xWVz35NI0.gif)
