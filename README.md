@@ -19,7 +19,7 @@ Final_Draft.py - This code correlated to the final development of the USV(Unmann
 
 -Hardware - PC's, Desktops. Laptops, mobile devices, Raspberry-Pi
 
--Libraries - Tkinter, Pysimple-GUI, matplotlib, Image, 
+-Libraries - Tkinter, Pysimple-GUI, matplotlib, Image, random, time 
 
 **Installing**
 
