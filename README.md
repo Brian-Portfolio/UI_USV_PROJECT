@@ -36,6 +36,8 @@ Final_Draft.py - This code correlated to the final development of the USV(Unmann
 
 Run command(for both Rough and Final Drafts)
 
+![Test](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+
 `python Rough_Draft_UI.py` 
 
 ![alt-text](https://g.recordit.co/s3S2XzqdHi.gif)
